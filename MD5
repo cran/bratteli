@@ -1,0 +1,11 @@
+61906c2022022ff2a24920b9f8e067cc *DESCRIPTION
+63255375e78c79bf1cee6c72ca58dde8 *NAMESPACE
+d17b857253bc2f8ccfdc0f0aa6ad3817 *NEWS.md
+5f3d2de595ae1fd4879809924d79a31a *R/graph.R
+97dfb376cf1c1c145ad1a1d19fa95903 *R/markov.R
+e5884e5be8b13898112b8df93681a88d *README.md
+7a661bd2b73a8c161abffb53033a3b3e *inst/templateGraph/templateGraph.tex
+f36a75e4c020cdfa10706fcd7c5d6378 *man/bratteliDimensions.Rd
+355e4d1d19504d1f01a273089c0d684c *man/bratteliDistances.Rd
+0338d752257d5fc8b1c086675380af44 *man/bratteliGraph.Rd
+217504c853a40b636bc6ea45e85cc562 *man/bratteliKernels.Rd
